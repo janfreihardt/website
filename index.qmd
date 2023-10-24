@@ -1,11 +1,18 @@
 ---
-title: "website-template"
+title: "About"
+subtitle: "Jan Freihardt"
+image: "image_jan.jpg"
+about: 
+  template: trestles
+format:
+  html: 
+    toc: false
 ---
 
-This is a Quarto website.
+2 to 3 sentences 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Heading 1
 
-```{r}
-1 + 1
-```
+## Heading 2
+
+

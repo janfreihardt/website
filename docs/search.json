@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website-template",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "2 to 3 sentences"
+  },
+  {
+    "objectID": "index.html#heading-1",
+    "href": "index.html#heading-1",
+    "title": "About",
+    "section": "Heading 1",
+    "text": "Heading 1"
+  },
+  {
+    "objectID": "index.html#heading-2",
+    "href": "index.html#heading-2",
+    "title": "About",
+    "section": "Heading 2",
+    "text": "Heading 2"
   }
 ]
