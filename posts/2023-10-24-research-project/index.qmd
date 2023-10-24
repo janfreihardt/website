@@ -1,0 +1,15 @@
+---
+title: Get started with blogging
+subtitle: A template for a blog
+description: |
+  This is a template from which the YAML metadata can be copied for a new blog
+  post. 
+author: "Jan Freihardt"
+date: today
+draft: false
+bibliography: "../../janfreihardt.bib"
+---
+
+## Project summary
+
+Climate change is expected to induce mass-population dislocations, i.e., migration, due to droughts, sea level rise, or extreme weather events, such as stronger and more frequent storms or floods, particularly in developing countries with low capacity to protect themselves and adapt to climate change [@blackEffectEnvironmentalChange2011]. However, recent studies on climate change induced human displacement do not account for the possibility that people might adapt to changing climatic conditions [@lauricejameroSmallislandCommunitiesPhilippines2017] . This is particularly relevant to slow-onset environmental changes, such as sea-level rise, where individuals and societies can anticipate such changes and take precautionary measures. Therefore, it is important to consider people's perceptions of environmental changes [@koubiPerceptionsEnvironmentalChange2016]. With this project, we aim at contributing to a better understanding of whether, when, and how environmental changes lead to human migration.
