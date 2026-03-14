@@ -84,6 +84,16 @@ My research sits at the intersection of environmental politics, migration studie
 
 ---
 
+## Data & Software
+
+<ul class="pub-list">
+<li>**Freihardt, J.**, Rudolph, L., Koubi, V. (2026). *The Bangladesh Environmental Mobility Panel (BEMP): Panel data on (im)mobility, socio-economic, and political impacts of riverbank erosion and flooding in Bangladesh* [Dataset]. Zenodo. [DOI](https://doi.org/10.5281/zenodo.18229497)</li>
+
+<li>**Freihardt, J.** (2026). *BEMPdata: Access the Bangladesh Environmental Mobility Panel Dataset* (Version 0.2.1) [R package]. CRAN. [DOI](https://doi.org/10.5281/zenodo.18775709) · [CRAN](https://CRAN.R-project.org/package=BEMPdata)</li>
+</ul>
+
+---
+
 ## Working Papers
 
 <ul class="pub-list">
@@ -111,19 +121,19 @@ My research sits at the intersection of environmental politics, migration studie
 ## Other Publications
 
 <ul class="pub-list">
-<li>**Freihardt, J.** (2026). [Trapped in the Climate Spaceship: When Negotiations Lose Touch with Earth](https://globalhealth.ethz.ch/news/blog). *Global Health Engineering Blog*, ETH Zurich.</li>
+<li>**Freihardt, J.** (2026). [Trapped in the Climate Spaceship: When Negotiations Lose Touch with Earth](https://ghe.ethz.ch/ghe-blog-news/2026/01/blog-trapped-in-the-climate-spaceship-when-negotiations-lose-touch-with-earth.html). *Global Health Engineering Blog*, ETH Zurich.</li>
 
-<li>**Freihardt, J.** (2025). Die Flut wird wieder kommen, die Menschen bleiben. *Weltwoche Grün*, Nr. 18.25.</li>
+<li>**Freihardt, J.** (2025). [Die Flut wird wieder kommen, die Menschen bleiben](https://weltwoche.ch/story/die-flut-wird-wieder-kommen-die-menschen-bleiben/). *Weltwoche Grün*, Nr. 18.25.</li>
 
-<li>**Freihardt, J.** (2025). [Teaching in Ghana: Confronting Privilege and Power in Global Academia](https://globalhealth.ethz.ch/news/blog). *Global Health Engineering Blog*, ETH Zurich.</li>
+<li>**Freihardt, J.** (2025). [Teaching in Ghana: Confronting Privilege and Power in Global Academia](https://ghe.ethz.ch/ghe-blog-news/2025/03/blog-teaching-in-ghana-confronting-privilege-and-power-in-global-academia.html). *Global Health Engineering Blog*, ETH Zurich.</li>
 
-<li>**Freihardt, J.** (2025). [Who gets a seat at the table? The exclusive world of UN Climate Conferences](https://globalhealth.ethz.ch/news/blog). *Global Health Engineering Blog*, ETH Zurich.</li>
+<li>**Freihardt, J.** (2025). [Who gets a seat at the table? The exclusive world of UN Climate Conferences](https://ghe.ethz.ch/ghe-blog-news/2025/01/blog-who-gets-a-seat-at-the-table-the-exclusive-world-of-un-climate-conferences.html). *Global Health Engineering Blog*, ETH Zurich.</li>
 
-<li>**Freihardt, J.** (2024). [Climate change alone does not cause mass migration](https://zukunftsblog.ethz.ch/). *ETH Zukunftsblog*, ETH Zurich.</li>
+<li>**Freihardt, J.** (2024). [Climate change alone does not cause mass migration](https://ethz.ch/en/news-and-events/eth-news/news/2024/11/climate-change-alone-does-not-cause-mass-migration.html). *ETH Zukunftsblog*, ETH Zurich.</li>
 
-<li>Swiss Expert Group for Citizen Science (2024). Citizen Science in Switzerland: Taking Stock and Ways into the Future. [zenodo.org/records/12751877](https://zenodo.org/records/12751877)</li>
+<li>Swiss Expert Group for Citizen Science (2024). [Citizen Science in Switzerland: Taking Stock and Ways into the Future](https://zenodo.org/records/12751877).</li>
 
-<li>**Freihardt, J.** (2023). [Millions On the Move? Unpacking the Climate-Migration Nexus](https://jia.sipa.columbia.edu/). *Journal of International Affairs*.</li>
+<li>**Freihardt, J.** (2023). [Millions On the Move? Unpacking the Climate-Migration Nexus](https://jia.sipa.columbia.edu/news/millions-move-unpacking-climate-migration-nexus). *Journal of International Affairs*, Columbia University.</li>
 
-<li>Dallo, I., **Freihardt, J.**, von Rothkirch, J. (2020). [Six lessons from students about transdisciplinary learning](https://i2insights.org/). *Integration and Implementation Insights Blog*.</li>
+<li>Dallo, I., **Freihardt, J.**, von Rothkirch, J. (2020). [Six lessons from students about transdisciplinary learning](https://i2insights.org/2020/10/06/students-on-transdisciplinary-learning/). *Integration and Implementation Insights Blog*.</li>
 </ul>
