@@ -1,0 +1,129 @@
+---
+title: "Research"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+::: {.section-intro}
+My research sits at the intersection of environmental politics, migration studies, and science–society relations. I combine quantitative methods (panel surveys, natural experiments, remote sensing) with qualitative fieldwork to study how people respond to environmental change.
+:::
+
+## Research Interests
+
+- **Environmental migration & (im)mobility** — How do climate-related hazards (riverbank erosion, flooding, drought) shape migration decisions and adaptation strategies, particularly in climate-vulnerable contexts such as Bangladesh?
+- **Climate change adaptation** — What determines whether households and communities choose to stay, adapt in place, or move? When does staying become involuntary immobility?
+- **Disaster risk communication** — How framing affects public perceptions of risk and support for climate adaptation policies.
+- **Air quality & citizen science** — Monitoring urban air pollution and understanding citizen responses to environmental information in the Global South.
+- **Transformative & transdisciplinary science** — The role of research in societal transformation; science–society collaboration; academic engagement beyond the ivory tower.
+
+---
+
+## Peer-Reviewed Articles
+
+<ul class="pub-list">
+<li>**16.** Rudolph, L., Hormuth, L., **Freihardt, J.**, Koubi, V. (2026). Perceived deservingness shapes attitudes toward environmental migrants in rural Bangladesh. *Communications Earth and Environment*. [DOI](https://doi.org/10.1038/s43247-026-03320-6)</li>
+
+<li>**15.** Fournier De Lauriere, C., **Freihardt, J.**, Moolla, R., Bernauer, T. (2025). More research needed on people's responses to air quality data. *Environmental Research Letters*, 20, 121007. [DOI](https://doi.org/10.1088/1748-9326/ae293d)</li>
+
+<li>**14.** **Freihardt, J.** (2025). Trapped by climate change? (In)voluntary immobility in Bangladesh. *Regional Environmental Change*, 25, 117. [DOI](https://doi.org/10.1007/s10113-025-02452-3)</li>
+
+<li>**13.** Abgottspon, E., **Freihardt, J.**, Tkaczuk, J., Tilley, E. (2025). Willingness to pay for and economic feasibility of solid waste management in Cape Maclear, Malawi. *Resources, Conservation & Recycling Advances*, 27, 200281. [DOI](https://doi.org/10.1016/j.rcradv.2025.200281)</li>
+
+<li>**12.** Aggarwal, A., **Freihardt, J.** (2025). Safeguarding statehood: A policy framework for addressing climate-induced statelessness in Small Island Developing States. *Migration Policy Practice*, International Organization for Migration (UN IOM), Vol. XIV, 2. ISSN: 2223-5248.</li>
+
+<li>**11.** Thalheimer, L., Cottier, F., Kruczkiewicz, A. et al. (2025). Prioritizing involuntary immobility in climate policy and disaster planning. *Nature Communications*, 16, 2581. [DOI](https://doi.org/10.1038/s41467-025-57679-9)</li>
+
+<li>**10.** Rudolph, L., Koubi, V., **Freihardt, J.** (2025). Environmental change and migration aspirations: Evidence from Bangladesh. *Global Environmental Change*, 91. [DOI](https://doi.org/10.1016/j.gloenvcha.2025.102966)</li>
+
+<li>**9.** **Freihardt, J.** (2025). Environmental shocks and migration among a climate-vulnerable population in Bangladesh. *Population and Environment*, 47, 6. [DOI](https://doi.org/10.1007/s11111-025-00478-7)</li>
+
+<li>**8.** **Freihardt, J.**, Buntaine, M., Bernauer, T. (2024). Choosing to protect: Public support for flood defense over relocation in climate change adaptation. *Environmental Research Letters*, 19, 104012. [DOI](https://doi.org/10.1088/1748-9326/ad6781)</li>
+
+<li>**7.** Rudolph, L., Koubi, V., **Freihardt, J.** (2024). COVID-19 vaccination uptake in remote areas — Evidence from a panel survey in Bangladesh. *PLOS ONE*, 19(8), e0305659. [DOI](https://doi.org/10.1371/journal.pone.0305659)</li>
+
+<li>**6.** **Freihardt, J.** (2024). Perceptions of environmental changes among a climate-vulnerable population from Bangladesh. *Climatic Change*, 177, 25. [DOI](https://doi.org/10.1007/s10584-024-03678-6)</li>
+
+<li>**5.** **Freihardt, J.** & Buchs, R. (2023). Framing effects in disaster risk communication: the case of coastal erosion in the United States. *Environmental Hazards*, 23(3), 287–305. [DOI](https://doi.org/10.1080/17477891.2023.2280691)</li>
+
+<li>**4.** **Freihardt, J.** & Frey, O. (2023). Assessing riverbank erosion in Bangladesh using time series of Sentinel-1 radar imagery in the Google Earth Engine. *Natural Hazards and Earth System Sciences*, 23, 751–770. [DOI](https://doi.org/10.5194/nhess-23-751-2023)</li>
+
+<li>**3.** Pearce, B., Dallo, I., Choi, V., **Freihardt, J.**, Middel, C. (2022). Forks in the Road: Identifying key processes in stakeholder interaction with critical design moments. *GAIA: Ecological Perspectives for Science and Society*, 31(4), 222–230. [DOI](https://doi.org/10.14512/gaia.31.4.6)</li>
+
+<li>**2.** **Freihardt, J.** (2020). Can Citizen Science using social media inform sanitation planning? *Journal of Environmental Management*, 259, 110053. [DOI](https://doi.org/10.1016/j.jenvman.2019.110053)</li>
+
+<li>**1.** **Freihardt, J.**, Jekel, M. and Ruhl, A.S. (2017). Comparing test methods for granular activated carbon for organic micropollutant elimination. *Journal of Environmental Chemical Engineering*, 5(3). [DOI](https://doi.org/10.1016/j.jece.2017.05.002)</li>
+</ul>
+
+---
+
+## Books
+
+<ul class="pub-list">
+<li>**2.** **Freihardt, J.** (2024). *Rivers of Change. A Story of Eroding Villages*. vdf Hochschulverlag AG, Zürich. ISBN: 978-3-7281-4188-0. [DOI](https://doi.org/10.3218/4189-7)</li>
+
+<li>**1.** **Freihardt, J.** (2021). *Draußen ist es anders. Auf neuen Wegen zu einer Wissenschaft für den Wandel*. oekom, München. ISBN: 978-3-96238-296-4. [DOI](https://doi.org/10.14512/9783962388355)</li>
+</ul>
+
+---
+
+## Book Chapters
+
+<ul class="pub-list">
+<li>**1.** Kellhammer, M., **Freihardt, J.** (2025). Über das Ausgesetztsein in transformativen Forschungsumgebungen, oder: Und dann flogen die Eier. In: von Wirth, T., Vogel, T., Jansen, P. (eds.): *Kompass für den Wandel. Mit transformativen Fähigkeiten die Welt von morgen gestalten*, pp. 126–151. oekom, München. [DOI](https://doi.org/10.14512/9783987264351)</li>
+</ul>
+
+---
+
+## Documentary
+
+<ul class="pub-list">
+<li>Campert, A., **Freihardt, J.** (2024). *Eroding Horizons. A Village on the Move*. [Watch on YouTube](https://www.youtube.com/watch?v=d44LCujw6pk)</li>
+</ul>
+
+---
+
+## Working Papers
+
+<ul class="pub-list">
+<li>**Freihardt, J.**: Micro-mobility. Moving away from environmental risk. <span class="pub-tag tag-review">under review</span> (2025)</li>
+
+<li>von Uexkull, N., **Freihardt, J.**, Koubi, V.: Climate change impacts in Bangladesh – securitization, conflict and cooperation. <span class="pub-tag tag-review">under review</span> (2022)</li>
+
+<li>**Freihardt, J.**, Rudolph, L., Koubi, V.: Data descriptor for Bangladesh panel dataset on environmental migration. <span class="pub-tag tag-wip">work in progress</span> (2025)</li>
+
+<li>**Freihardt, J.**: Migration as adaptation or maladaptation in the context of environmental changes: Evidence from Bangladesh. <span class="pub-tag tag-wip">work in progress</span> (2025)</li>
+
+<li>Fabry, A., **Freihardt, J.**, Meemken, E.-M., Koubi, V.: Climate Change, Migration, and Mental Health in Bangladesh. <span class="pub-tag tag-wip">work in progress</span> (2024)</li>
+
+<li>Benveniste, H., **Freihardt, J.**, Koubi, V.: The role of remittances in shaping migration and life satisfaction. <span class="pub-tag tag-wip">work in progress</span> (2024)</li>
+
+<li>Al-Maruf, A., **Freihardt, J.**, Koubi, V.: The interplay of household resilience and the capability to stay in Bangladesh. <span class="pub-tag tag-wip">work in progress</span> (2024)</li>
+
+<li>Aggarwal, A., **Freihardt, J.**: A gendered perspective on environmental migration in Bangladesh. <span class="pub-tag tag-wip">work in progress</span> (2024)</li>
+
+<li>**Freihardt, J.**, Koubi, V.: The effect of recurrent and concurrent climate events on migration: Evidence from Bangladesh. <span class="pub-tag tag-wip">work in progress</span> (2024)</li>
+</ul>
+
+---
+
+## Other Publications
+
+<ul class="pub-list">
+<li>**Freihardt, J.** (2026). [Trapped in the Climate Spaceship: When Negotiations Lose Touch with Earth](https://globalhealth.ethz.ch/news/blog). *Global Health Engineering Blog*, ETH Zurich.</li>
+
+<li>**Freihardt, J.** (2025). Die Flut wird wieder kommen, die Menschen bleiben. *Weltwoche Grün*, Nr. 18.25.</li>
+
+<li>**Freihardt, J.** (2025). [Teaching in Ghana: Confronting Privilege and Power in Global Academia](https://globalhealth.ethz.ch/news/blog). *Global Health Engineering Blog*, ETH Zurich.</li>
+
+<li>**Freihardt, J.** (2025). [Who gets a seat at the table? The exclusive world of UN Climate Conferences](https://globalhealth.ethz.ch/news/blog). *Global Health Engineering Blog*, ETH Zurich.</li>
+
+<li>**Freihardt, J.** (2024). [Climate change alone does not cause mass migration](https://zukunftsblog.ethz.ch/). *ETH Zukunftsblog*, ETH Zurich.</li>
+
+<li>Swiss Expert Group for Citizen Science (2024). Citizen Science in Switzerland: Taking Stock and Ways into the Future. [zenodo.org/records/12751877](https://zenodo.org/records/12751877)</li>
+
+<li>**Freihardt, J.** (2023). [Millions On the Move? Unpacking the Climate-Migration Nexus](https://jia.sipa.columbia.edu/). *Journal of International Affairs*.</li>
+
+<li>Dallo, I., **Freihardt, J.**, von Rothkirch, J. (2020). [Six lessons from students about transdisciplinary learning](https://i2insights.org/). *Integration and Implementation Insights Blog*.</li>
+</ul>

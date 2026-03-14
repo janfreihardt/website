@@ -1,0 +1,71 @@
+---
+title: "Teaching"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+::: {.section-intro}
+My teaching spans environmental politics, research methods, and the ethics and practice of science in society. I am committed to pedagogies that connect academic knowledge with real-world challenges.
+:::
+
+## University Courses
+
+<table class="teaching-table">
+<thead>
+<tr>
+<th>Year(s)</th>
+<th>Course</th>
+<th>Institution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2026</td>
+<td>Assessing Political Feasibility of Policies — Public Opinion Research, Survey and Field Experiments</td>
+<td>ETH Zurich (co-taught)</td>
+</tr>
+<tr>
+<td>2025, 2026</td>
+<td>Ethics and Scientific Integrity for Doctoral Students of D-MAVT</td>
+<td>ETH Zurich (co-taught)</td>
+</tr>
+<tr>
+<td>2025</td>
+<td>International Environmental Politics</td>
+<td>ETH Zurich & Ashesi University, Ghana (co-taught)</td>
+</tr>
+<tr>
+<td>2024</td>
+<td>International Engineering: from Hubris to Hope</td>
+<td>ETH Zurich (co-taught)</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>Proseminar I: Politische Methodologie</td>
+<td>ETH Zurich (co-taught)</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Selected Invited Lectures & Workshops
+
+Beyond formal courses, I regularly give guest lectures and facilitate workshops on environmental migration, climate policy, and transformative science. A selection:
+
+- **2026** — *"Hat die Klimaflucht schon begonnen?"*, aha Festival, Lucerne (invited speaker)
+- **2025** — *"Climate change and (im)mobility: The case of Bangladesh"*, Witten/Herdecke University (invited speaker)
+- **2025** — *"Leadership Training für regenerative Kultur und Gesellschaft"*, Circlewise Institut, facilitator
+- **2025** — *"International Environmental Politics"*, Ashesi University, Ghana (guest lecturer)
+- **2024** — *"A gendered perspective on environmental migration in Bangladesh"*, Columbia University, course "Climate Mobility" (invited speaker)
+- **2024** — *"Transforming our university teaching towards sustainability"*, workshop for young lecturers, co-organized with WWF, SDSN Switzerland & swiss young academy, Bern
+- **2023** — *"Transformative Science"*, ETH Zurich, "Teach Forward" series in collaboration with ETH LET (workshop facilitator)
+- **2023** — *"Gesellschaft im Krisenmodus?"*, ZAK Talks, KIT Science Week (invited panelist) — [Video](https://www.youtube.com/watch?v=cbu86_IMzLs)
+- **2022** — *"Fleeing climate change and the gendered impacts"*, Amnesty International Zurich (invited panelist)
+- **2022** — *"Einführung in Citizen Science"*, University of Zurich, School for Transdisciplinary Studies (guest lecturer)
+- **2021** — *"Transformative Science"*, multiple workshops at institutions including University of Zurich Graduate Research Center, Friedrich-Ebert-Stiftung, Stiftung der deutschen Wirtschaft, Scientists for Future Munich, ETH Zurich
+- **2020** — *"ClimateJustice Now!"*, Bauhaus-Universität Weimar (guest lecturer)
+
+A full list of workshops, seminars, and expert meetings is available in my [CV](cv.qmd).

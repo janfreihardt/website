@@ -1,0 +1,61 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+<a href="CV_Jan Freihardt.pdf" class="cv-download-btn" download>
+  ↓ Download CV (PDF)
+</a>
+
+## Current Position
+
+**Postdoctoral Researcher** · Chair for International Political Economy and Environmental Politics, D-GESS, ETH Zurich (2025–present)
+
+## Previous Positions
+
+- Postdoctoral Researcher, Chair for Global Health Engineering, D-MAVT, ETH Zurich (2023–2025)
+- Visiting Researcher, Climate School, Columbia University, New York (2023)
+
+## Education
+
+- **PhD** Political Science, Center for Comparative and International Studies (CIS), ETH Zurich (2023)
+  Thesis: [*When the river breaks the land: Environmental (im)mobility among rural households in Bangladesh*](https://doi.org/10.3929/ethz-b-000646402)
+  Committee: Prof. Dr. Vally Koubi, Prof. Dr. Lukas Rudolph, Dr. Alex de Sherbinin, Prof. Dr. Nina von Uexkull
+- **M.Sc.** Science, Technology and Policy, ETH Zurich (2020)
+- **M.Sc.** Environmental Engineering, ETH Zurich (2018)
+- **B.Sc.** Environmental Sciences and Technology, TU Berlin (2016)
+
+## Research Interests
+
+Environmental migration · Climate change adaptation · Disaster risk communication · Sustainable sanitation · Air pollution · Transformative and transdisciplinary science
+
+## Selected Awards & Funding
+
+- ETH Zurich Career Seed Award, *Citizen Responses to Local Air Pollution Information in Bangladesh*, CHF 30,000 (2026–2027)
+- PPE Young Scholars Award for Social and Institutional Change, Witten/Herdecke University (2025)
+- Jury Distinction, SNSF Scientific Image Competition 2024 — *When the river breaks the land*
+- Special Mention (Non-Fiction), Earth 360° Fest, BYEI — documentary *Eroding Horizons* (2024)
+- SNSF PhD Scholarship, Project *Climate Risk, Land Loss, and Migration: Evidence from a Quasi-Experiment in Bangladesh* (2019–2023)
+- DAAD Graduate Scholarship (2016–2018)
+
+## Field Research
+
+Bangladesh (2021, 2022, 2023, 2024, 2026) · Pakistan (2026) · Malawi (2018) · South Africa (2015)
+
+## Professional Activities
+
+- Chair, [Wissenschaf(f)t Zukünfte e.V.](https://www.wissenschafftzukuenfte.de/) (2020–present)
+- Member, Leadership Board, Global Alliance for Inter- and Transdisciplinarity (ITD Alliance) (2021–2023)
+- Member, Swiss Expert Group for Citizen Science (2021–2024)
+- Reviewer for *Nature Communications*, *Environmental Research Letters*, *Global Environmental Change*, *Journal of Peace Research*, and 20+ other journals
+
+## Languages
+
+German (native) · English (C2) · Dutch (C2) · French (C1) · Spanish (B2) · Arabic (A2) · Bangla (A1) · Hindi (A1) · Portuguese (A1)
+
+---
+
+*For the full list of publications, teaching, workshops, and conference presentations, please download the PDF above or visit the [Research](research.qmd) and [Teaching](teaching.qmd) pages.*

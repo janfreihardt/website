@@ -1,27 +1,36 @@
 ---
-title: "About"
-subtitle: "Jan Freihardt"
+title: "Jan Freihardt"
+subtitle: "Postdoctoral Researcher · ETH Zurich"
 image: "image_jan.jpg"
-about: 
+about:
   template: trestles
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/a_free_heart
-    - icon: github
-      text: Github
-      href: https://github.com/janfreihardt
+    - icon: envelope
+      text: Email
+      href: mailto:fjan@ethz.ch
+    - text: "ETH Profile"
+      href: https://ib.ethz.ch/about-us/people/jan-freihardt.html
+    - text: "Google Scholar"
+      href: https://scholar.google.ch/citations?user=QTLHSCcAAAAJ&hl=en&oi=ao
+    - text: "ORCID"
+      href: https://orcid.org/0000-0003-2096-0335
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/jan-freihardt-349040156/ 
+      href: https://www.linkedin.com/in/jan-freihardt-349040156/
+    - text: "ResearchGate"
+      href: https://www.researchgate.net/profile/Jan-Freihardt
+    - text: "BlueSky"
+      href: https://bsky.app/profile/the-free-heart.bsky.social
+    - icon: github
+      text: GitHub
+      href: https://github.com/janfreihardt
 format:
-  html: 
+  html:
     toc: false
-    link-external-newwindow: true
 ---
 
-I am an explorative mind. I like to explore new cultures, explore nature, explore the boundaries of our collective wisdom and last, but not least, explore myself. I am keen to explore the interfaces between scientific evidence, technological progress and societal welfare. After graduating from Environmental Engineering, I therefore did a second master's in "Science, Technology and Policy" to complement my technological background with an understanding of the inner workings of our society. Currently, I am pursuing a PhD in Political Science about environmental migration at ETH.
+Jan joined the Chair of International Political Economy and Environmental Politics as a postdoctoral researcher in 2025, having completed his PhD there from 2019 to 2023. As both an engineer and a social scientist, Jan is driven to contribute to the »Great Transformation« of our global societies, enabling a good life for all while respecting the natural limits of our planet. His current work focuses on climate migration and adaptation, as well as air quality monitoring in over-exploited urban areas, as part of the SNF project »Clean Air Policy in Urban Areas of the Global South: Identifying and Explaining Variation in Monitoring Behavior, Pollution Levels, and Citizen Preferences«.
 
-Recently, I have published a book on transformative science (a way of doing science that is guided by societal problems and co-creates possible solutions for a liveable future): ["Draussen ist es anders"](https://www.wissenschafftzukuenfte.de/buch/).
+Jan completed his PhD in Political Science at ETH Zurich in September 2023. He holds two master's degrees from ETH, one in Environmental Engineering and the other in Science, Technology and Policy. Outside of academia, Jan has been active in various environmental NGOs for many years, with a particular interest in the interaction between academia and societal actors. He co-founded the association [»Wissenschaf(f)t Zukünfte e.V.«](https://www.wissenschafftzukuenfte.de/) and published the book [»Draußen ist es anders. Auf neuen Wegen zu einer Wissenschaft für den Wandel«](https://doi.org/10.14512/9783962388355) about transdisciplinary and transformative science. Further, Jan supports the grief work of Janna Schneewitta Rehbein.
 
-After my studies, I would like to contribute to the transformation of our society into one that respects the natural boundaries of our planet, so that future generations have the same possibilities like me to explore our world and the beauty of the Earth.
+For his PhD, Jan conducted research on environmental migration as part of the SNF project »Climate Risk, Land Loss, and Migration: Evidence from a Quasi-Experiment in Bangladesh«. In the context of climate change, millions of people will be affected by rising sea levels, desertification, extreme weather events and other impacts of climate change, either physically or by losing property. His work focuses on how such events influence people's decisions to migrate and the alternative adaptation strategies they might adopt. The project included extensive fieldwork along the Jamuna River in Bangladesh. His PhD thesis [»When the river breaks the land: Environmental (im)mobility among rural households in Bangladesh«](https://doi.org/10.3929/ethz-b-000646402) is available to read open access. Together with an artistic team, he created a short documentary about the research project: [»Eroding Horizons. A Village on the Move«](https://www.youtube.com/watch?v=d44LCujw6pk), as well as a photobook: [»Rivers of Change. A Story of Eroding Villages«](https://doi.org/10.3218/4189-7).

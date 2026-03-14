@@ -6,18 +6,30 @@ website:
   title: "Jan Freihardt"
   site-url: "https://janfreihardt.github.io/website/"
   navbar:
+    background: light
     left:
       - href: index.qmd
-        text: Home
-      - href: posts/
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: media.qmd
+        text: Media
+      - href: cv.qmd
+        text: CV
+      - href: posts/index.qmd
         text: Blog
+  page-footer:
+    center: "Jan Freihardt · Postdoctoral Researcher · ETH Zurich · [fjan@ethz.ch](mailto:fjan@ethz.ch)"
+    background: light
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    link-external-newwindow: true
 
 execute:
   freeze: auto
-

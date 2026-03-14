@@ -1,0 +1,105 @@
+---
+title: "Media"
+format:
+  html:
+    toc: false
+---
+
+::: {.section-intro}
+My research on environmental migration and climate change has been covered by a range of international media outlets. Below is a selection of press coverage, radio features, and podcast appearances.
+:::
+
+## Press & Radio
+
+<ul class="media-list">
+
+<li>
+<span class="media-outlet">The Hindu</span><span class="media-date">14 Jul 2025</span><br>
+[Climate change is changing where and how Indians are living](https://www.thehindu.com/)
+</li>
+
+<li>
+<span class="media-outlet">GoodImpact</span><span class="media-date">30 Jun 2025</span><br>
+[Im Bann des gefräßigen Flusses](https://goodimpact.org/)
+</li>
+
+<li>
+<span class="media-outlet">SRF</span><span class="media-date">2 Mar 2025</span><br>
+[Der Klimawandel erzeugt kaum Migration ins Ausland](https://www.srf.ch/)
+</li>
+
+<li>
+<span class="media-outlet">Swissinfo</span><span class="media-date">27 Feb 2025</span><br>
+[Der Klimawandel beeinflusst die Migration nicht immer so, wie man denkt – das Beispiel Bangladesch](https://www.swissinfo.ch/) / [Bangladesh sheds light on climate change migration patterns](https://www.swissinfo.ch/)
+</li>
+
+<li>
+<span class="media-outlet">Neue Zürcher Zeitung am Sonntag</span><span class="media-date">22 Dec 2024</span><br>
+[«Unser Bild von Klimaflucht ist faktisch falsch. Trotzdem wird es von Politikern und Medien weiter verbreitet»](https://www.nzz.ch/)
+</li>
+
+<li>
+<span class="media-outlet">Süddeutsche Zeitung</span><span class="media-date">31 Aug 2024</span><br>
+[Hungriger Fluss](https://www.sueddeutsche.de/)
+</li>
+
+<li>
+<span class="media-outlet">Reportagen</span><span class="media-date">May 2024</span><br>
+[Wenn der Fluss kommt](https://www.reportagen.com/)
+</li>
+
+<li>
+<span class="media-outlet">Deutschlandfunk Nova</span><span class="media-date">28 Jan 2024</span><br>
+[Manche Regionen in Bangladesch werden unbewohnbar](https://www.deutschlandfunknova.de/)
+</li>
+
+<li>
+<span class="media-outlet">Norddeutscher Rundfunk (NDR)</span><span class="media-date">13 Jan 2024</span><br>
+[Bangladesh und der Klimawandel](https://www.ndr.de/)
+</li>
+
+<li>
+<span class="media-outlet">Neue Zürcher Zeitung</span><span class="media-date">2/5 Oct 2023</span><br>
+[Wie reagiert man, wenn das eigene Hab und Gut immer wieder von einer Naturgewalt zerstört wird?](https://www.nzz.ch/) / [If your home was repeatedly destroyed, how long would it take you to leave?](https://www.nzz.ch/)
+</li>
+
+</ul>
+
+## Podcasts
+
+<ul class="media-list">
+
+<li>
+<span class="media-outlet">SciComm Palaver</span><span class="media-date">17 Mar 2025</span><br>
+[Episode 39](https://sabinegysi.ch/scicomm-palaver-episode-39/)
+</li>
+
+<li>
+<span class="media-outlet">Water Stressed Podcast</span><span class="media-date">24 Mar 2024</span><br>
+[Listen](https://open.acast.com/public/streams/638b10408f875f00102f5aa8/episodes/660154257143f70017a27c6e.mp3)
+</li>
+
+</ul>
+
+## TV & Video
+
+<ul class="media-list">
+
+<li>
+<span class="media-outlet">Somoy TV</span><span class="media-date">21 Feb 2024</span><br>
+[Watch on YouTube](https://www.youtube.com/watch?v=lKSQ3iwhjTM)
+</li>
+
+</ul>
+
+## Documentary
+
+<ul class="media-list">
+
+<li>
+<span class="media-outlet">Eroding Horizons: A Village on the Move</span><span class="media-date">2024</span><br>
+A short documentary about research on riverbank erosion and migration in Bangladesh, co-created with filmmaker Anna Campert. Special Mention (Non-Fiction) at Earth 360° Fest of the Bangladesh Youth Environmental Initiative (BYEI).<br>
+[Watch on YouTube](https://www.youtube.com/watch?v=d44LCujw6pk)
+</li>
+
+</ul>
