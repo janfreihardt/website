@@ -18,8 +18,9 @@ website:
         text: Media
       - href: cv.qmd
         text: CV
-      - href: posts/index.qmd
+      - href: https://notspicynotsexy.com/
         text: Blog
+        target: _blank
   page-footer:
     center: "Jan Freihardt · Postdoctoral Researcher · ETH Zurich · [fjan@ethz.ch](mailto:fjan@ethz.ch)"
     background: light

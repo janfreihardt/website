@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research Blog – Jan Freihardt</title>
+<title>Media – Jan Freihardt</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-f4d57fda717b58917cdf7b65ed0f2374.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-f4d57fda717b58917cdf7b65ed0f2374.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,79 +68,21 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-description','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Jan Freihardt</span>
     </a>
   </div>
@@ -153,23 +93,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research.html"> 
+    <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../teaching.html"> 
+    <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../media.html"> 
+    <a class="nav-link active" href="./media.html" aria-current="page"> 
 <span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../cv.html"> 
+    <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
@@ -184,22 +124,21 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research Blog</h1>
-<p class="subtitle lead">Here I share information about my project.</p>
+<h1 class="title">Media</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
@@ -211,41 +150,75 @@ window.Quarto = {
 </header>
 
 
+<div class="section-intro">
+<p>My research on environmental migration and climate change has been covered by a range of international media outlets. Below is a selection of press coverage, radio features, and podcast appearances.</p>
+</div>
+<section id="press-radio" class="level2">
+<h2 class="anchored" data-anchor-id="press-radio">Press &amp; Radio</h2>
+<ul class="media-list">
+<li>
+<span class="media-outlet">The Hindu</span><span class="media-date">14 Jul 2025</span><br> <a href="https://www.thehindu.com/">Climate change is changing where and how Indians are living</a>
+</li>
+<li>
+<span class="media-outlet">GoodImpact</span><span class="media-date">30 Jun 2025</span><br> <a href="https://goodimpact.org/">Im Bann des gefräßigen Flusses</a>
+</li>
+<li>
+<span class="media-outlet">SRF</span><span class="media-date">2 Mar 2025</span><br> <a href="https://www.srf.ch/">Der Klimawandel erzeugt kaum Migration ins Ausland</a>
+</li>
+<li>
+<span class="media-outlet">Swissinfo</span><span class="media-date">27 Feb 2025</span><br> <a href="https://www.swissinfo.ch/">Der Klimawandel beeinflusst die Migration nicht immer so, wie man denkt – das Beispiel Bangladesch</a> / <a href="https://www.swissinfo.ch/">Bangladesh sheds light on climate change migration patterns</a>
+</li>
+<li>
+<span class="media-outlet">Neue Zürcher Zeitung am Sonntag</span><span class="media-date">22 Dec 2024</span><br> <a href="https://www.nzz.ch/">«Unser Bild von Klimaflucht ist faktisch falsch. Trotzdem wird es von Politikern und Medien weiter verbreitet»</a>
+</li>
+<li>
+<span class="media-outlet">Süddeutsche Zeitung</span><span class="media-date">31 Aug 2024</span><br> <a href="https://www.sueddeutsche.de/">Hungriger Fluss</a>
+</li>
+<li>
+<span class="media-outlet">Reportagen</span><span class="media-date">May 2024</span><br> <a href="https://www.reportagen.com/">Wenn der Fluss kommt</a>
+</li>
+<li>
+<span class="media-outlet">Deutschlandfunk Nova</span><span class="media-date">28 Jan 2024</span><br> <a href="https://www.deutschlandfunknova.de/">Manche Regionen in Bangladesch werden unbewohnbar</a>
+</li>
+<li>
+<span class="media-outlet">Norddeutscher Rundfunk (NDR)</span><span class="media-date">13 Jan 2024</span><br> <a href="https://www.ndr.de/">Bangladesh und der Klimawandel</a>
+</li>
+<li>
+<span class="media-outlet">Neue Zürcher Zeitung</span><span class="media-date">2/5 Oct 2023</span><br> <a href="https://www.nzz.ch/">Wie reagiert man, wenn das eigene Hab und Gut immer wieder von einer Naturgewalt zerstört wird?</a> / <a href="https://www.nzz.ch/">If your home was repeatedly destroyed, how long would it take you to leave?</a>
+</li>
+</ul>
+</section>
+<section id="podcasts" class="level2">
+<h2 class="anchored" data-anchor-id="podcasts">Podcasts</h2>
+<ul class="media-list">
+<li>
+<span class="media-outlet">SciComm Palaver</span><span class="media-date">17 Mar 2025</span><br> <a href="https://sabinegysi.ch/scicomm-palaver-episode-39/">Episode 39</a>
+</li>
+<li>
+<span class="media-outlet">Water Stressed Podcast</span><span class="media-date">24 Mar 2024</span><br> <a href="https://open.acast.com/public/streams/638b10408f875f00102f5aa8/episodes/660154257143f70017a27c6e.mp3">Listen</a>
+</li>
+</ul>
+</section>
+<section id="tv-video" class="level2">
+<h2 class="anchored" data-anchor-id="tv-video">TV &amp; Video</h2>
+<ul class="media-list">
+<li>
+<span class="media-outlet">Somoy TV</span><span class="media-date">21 Feb 2024</span><br> <a href="https://www.youtube.com/watch?v=lKSQ3iwhjTM">Watch on YouTube</a>
+</li>
+</ul>
+</section>
+<section id="documentary" class="level2">
+<h2 class="anchored" data-anchor-id="documentary">Documentary</h2>
+<ul class="media-list">
+<li>
+<span class="media-outlet">Eroding Horizons: A Village on the Move</span><span class="media-date">2024</span><br> A short documentary about research on riverbank erosion and migration in Bangladesh, co-created with filmmaker Anna Campert. Special Mention (Non-Fiction) at Earth 360° Fest of the Bangladesh Youth Environmental Initiative (BYEI).<br> <a href="https://www.youtube.com/watch?v=d44LCujw6pk">Watch on YouTube</a>
+</li>
+</ul>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773442800000" data-listing-file-modified-sort="1773494568888" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="128">
-<div class="thumbnail"><a href="../posts/2023-10-24-research-project/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/2023-10-24-research-project/index.html" class="no-external">Get started with blogging</a>
-</h3>
-<div class="delink listing-description"><a href="../posts/2023-10-24-research-project/index.html" class="no-external">
-<p>This is a template from which the YAML metadata can be copied for a new blog post.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/2023-10-24-research-project/index.html" class="no-external">
-<div class="listing-date">
-Mar 14, 2026
-</div>
-<div class="listing-author">
-Jan Freihardt
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
