@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(git init:*)",
+      "WebFetch(domain:florianegli.com)",
+      "WebFetch(domain:franziskaquoss.owlstown.net)",
+      "WebFetch(domain:www.garrettalbisteguiadler.com)",
+      "WebFetch(domain:liviaschubiger.com)",
+      "WebFetch(domain:ib.ethz.ch)",
+      "Bash(git add:*)",
+      "Bash(git config:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
