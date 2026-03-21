@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Jan Freihardt"
-  site-url: "https://janfreihardt.github.io/website/"
+  site-url: "https://janfreihardt.com"
   navbar:
     background: light
     left:
