@@ -14,6 +14,21 @@ My research on environmental (im)mobility and climate change has been covered by
 <ul class="media-list">
 
 <li>
+<span class="media-outlet">Dawn</span><span class="media-date">09 Apr 2026</span><br>
+[German scholar highlights data gap on climate-affected populations in Pakistan](https://www.dawn.com/news/1990085/german-scholar-highlights-data-gap-on-climate-affected-populations-in-pakistan)
+</li>
+
+<li>
+<span class="media-outlet">SRF</span><span class="media-date">29 Mar 2026</span><br>
+[Klimamigration unter der Lupe: Wenn das eigene Haus weggespült wird](https://www.srf.ch/wissen/klimawandel/klimamigration-unter-der-lupe-wenn-das-eigene-haus-weggespuelt-wird)
+</li>
+
+<li>
+<span class="media-outlet">SRF</span><span class="media-date">23 Mar 2026</span><br>
+[«Echo Wissen»: Warum Prognosen zu Klimamigration schwierig sind](https://www.srf.ch/audio/echo-der-zeit/echo-wissen-warum-prognosen-zu-klimamigration-schwierig-sind?partId=ICW6-FCRZWf6EGUnF4XpYI9xk3E)
+</li>
+
+<li>
 <span class="media-outlet">The Hindu</span><span class="media-date">14 Jul 2025</span><br>
 [Climate change is changing where and how Indians are living](https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-internal-migration-changing-where-how-indians-living/article69807089.ece)
 </li>
@@ -68,6 +83,11 @@ My research on environmental (im)mobility and climate change has been covered by
 ## Podcasts
 
 <ul class="media-list">
+
+<li>
+<span class="media-outlet">The Swiss Connection, SWI swissinfo.ch</span><span class="media-date">17 Mar 2026</span><br>
+[Season 7, Episode 5: Climate solution series: how Bangladesh adapts to erosion, floods, and rising seas](https://www.buzzsprout.com/910414/episodes/18816081)
+</li>
 
 <li>
 <span class="media-outlet">SciComm Palaver</span><span class="media-date">17 Mar 2025</span><br>
